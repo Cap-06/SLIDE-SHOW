@@ -1,0 +1,40 @@
+body{
+  background-color: rgb(9, 9, 9);
+
+}
+
+#slider-container {
+  position: relative;
+  max-width: 800px;
+  margin: auto;
+}
+
+.slider-img {
+  display: none;
+  width: 100%;
+  height: 80%;
+  box-shadow: rgb(8, 8, 8) 0px 54px 55px, rgb(3, 190, 253) 0px -12px 30px, rgb(3, 154, 247) 0px 4px 6px, rgba(8, 8, 8, 0.938) 0px 12px 13px, rgba(12, 147, 201, 0.904) 0px -3px 5px;
+  border-radius: 50px;
+}
+
+#controls {
+  text-align: center;
+  margin-top: 10px;
+}
+
+button {
+  padding: 20px;
+  margin: 20px;
+  cursor: pointer;
+  background-color: rgb(211, 211, 241);
+    border-radius: 20px;
+    box-shadow: rgb(251, 7, 7) 0px 5px 15px;
+
+}
+
+
+
+
+
+
+
